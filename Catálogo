@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>the shoes</title>
+    <link rel="stylesheet" href="css/styles.css" />
+</head>
+<body>
+<header>
+    <div class="content">
+        <nav>
+            <p class="brand">The <strong>Shoes</strong></p>
+            <ul>
+                <li><a href="#catalag">Catalog</a></li>
+                <li><a href="#about">About</a></li>
+                <li><a href="#feature">Features</a></li>
+                <button>Entrar</button>
+            </ul>
+        </div>
+       <div class="header-block">
+        <div class="text">
+            <h2>Os melhores tenis para você</h2>
+            <p><strong>A gente procura trazer a estética e conforto para vocês, as duas coisas mais importantes que um tenis deve que ter</strong></p>
+        </div>
+        <img src="images/ModeloCapa.jpg" alt="Tenis" />
+       </div> 
+      </div>
+    </header>
+    <section class="catalog" id="catalog">
+        <div class="content">
+            <div class="tittle-wrapper-catalog">
+                <p>Encontre o tenis que você deseja</p>
+                <h3>Catalogo</h3>
+                <div class="filter-card">
+                    <input type="text" class="search-input" placeholder="Escolha o seu modelo favorito" 
+                    >
+                    <button class="search-button">Procure</button>
+                </div>
+                <div class="card-wrapper">
+                    <div class="card-item">
+                        <img src="images/tnOreo.jpeg" alt="Tenis" />
+                        <div class="card-conten">
+                            <h3>Air Max Plus TN 1 "Oreo"</h3>
+                            <p>de R$ 1.099,90</p>
+                            <h3>POR R$ 879,92</h3>
+                            <p>ou em 6x de R$ 146,65 </p>
+                            <button type="button">Quero esse!</button>
+                        </div>
+                    </div>                    <div class="card-item">
+                        <img src="images/tnKaomoji.jpeg" alt="Tenis" />
+                        <div class="card-conten">
+                            <h3>Air Max Plus TN 1 "Kaomoji"</h3>
+                            <p>de R$ 1.099,90</p>
+                            <h3>POR R$ 879,92</h3>
+                            <p>ou em 6x de R$ 146,65 </p>
+                            <button type="button">Quero esse!</button>
+                        </div>
+                    </div>                    <div class="card-item">
+                        <img src="images/tnBlackWhite.jpeg" alt="Tenis" />
+                        <div class="card-conten">
+                            <h3>Air Max Plus TN 1 "Black/White"</h3>
+                            <p>de R$ 1.099,90</p>
+                            <h3>POR R$ 879,92</h3>
+                            <p>ou em 6x de R$ 146,65 </p>
+                            <button type="button">Quero esse!</button>
+                        </div>
+                    </div>                    <div class="card-item">
+                        <img src="images/tnMetalic.jpeg" alt="Tenis" />
+                        <div class="card-conten">
+                            <h3>Air Max Plus TN 1 "Black Metallic"</h3>
+                            <p>de R$ 1.099,90</p>
+                            <h3>POR R$ 879,92</h3>
+                            <p>ou em 6x de R$ 146,65 </p>
+                            <button type="button">Quero esse!</button>
+                        </div>
+                    </div>                    <div class="card-item">
+                        <img src="images/tnViolet.jpg" alt="Tenis" />
+                        <div class="card-conten">
+                            <h3>Air Max Plus TN 1 "Persian Violet"</h3>
+                            <p>de R$ 1.099,90</p>
+                            <h3>POR R$ 879,92</h3>
+                            <p>ou em 6x de R$ 146,65 </p>
+                            <button type="button">Quero esse!</button>
+                        </div>
+                    </div>                    <div class="card-item">
+                        <img src="images/tnKiller.jpeg" alt="Tenis" />
+                        <div class="card-conten">
+                            <h3>Air Max Plus TN 1 "Killer Whale"</h3>
+                            <p>de R$ 1.099,90</p>
+                            <h3>POR R$ 879,92</h3>
+                            <p>ou em 6x de R$ 146,65 </p>
+                            <button type="button">Quero esse!</button>
+                        </div>
+                    </div>                    <div class="card-item">
+                        <img src="images/tnNature.jpeg" alt="Tenis" />
+                        <div class="card-conten">
+                            <h3>Air Max Plus TN 1 "Nature Blue"</h3>
+                            <p>de R$ 1.099,90</p>
+                            <h3>POR R$ 879,92</h3>
+                            <p>ou em 6x de R$ 146,65 </p>
+                            <button type="button">Quero esse!</button>
+                        </div>
+                    </div>                    <div class="card-item">
+                        <img src="images/tnVapor.jpeg" alt="Tenis" />
+                        <div class="card-conten">
+                            <h3>Air Max Plus TN 1 "Particle Vapor"</h3>
+                            <p>de R$ 1.099,90</p>
+                            <h3>POR R$ 879,92</h3>
+                            <p>ou em 6x de R$ 146,65 </p>
+                            <button type="button">Quero esse!</button>
+                        </div>
+                    </div>                    <div class="card-item">
+                        <img src="images/tnVarsity.jpeg" alt="Tenis" />
+                        <div class="card-conten">
+                            <h3>Air Max Plus TN 1 "Varsity Red"</h3>
+                            <p>de R$ 1.099,90</p>
+                            <h3>POR R$ 879,92</h3>
+                            <p>ou em 6x de R$ 146,65 </p>
+                            <button type="button">Quero esse!</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section class="about" id="about">
+        <div class="content">
+            <div class="tittle-wrapper-about">
+                <P>Saiba sobre nós</P>
+                <h3>Sobre</h3>
+                <div class="about-content">
+                    <div class="left">
+                        <img src="images/" alt="About">
+                    </div>
+                    <div class="right">
+                        <p>Encontre uma loja The Shoes</p>
+                        <p>ㅤ</p>
+                        <p>Receba novidades</p>
+                        <p>ㅤ</p>
+                        <p>Cartão Presente</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>    
+  </body>
+</html>
