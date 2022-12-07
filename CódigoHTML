@@ -144,6 +144,40 @@
                 </div>
             </div>
         </div>
-    </section>    
+    </section>
+    <footer>
+        <div class="main">
+            <div class="content footer-links">
+                <div class="footer-company">
+                    <h4>Compania</h4>
+                    <h6>Sobre</h6>
+                    <h6>Contatos</h6>
+                </div>
+                <div class="footer-rental">
+                    <h4>Rental</h4>
+                    <h6>Self-Drive</h6>
+                    <h6>Chauffer-Driven</h6>
+                    <h6>Help</h6>
+                </div>
+                <div class="footer-social">
+                    <h4>Rede Sociais</h4>
+                    <div class="social-icons">
+                        <img src="images/instagram.png" alt="Instagram">
+                        <img src="images/facebook.png" alt="Facebook">
+                    </div>
+                </div>
+                <div class="footer-contact">
+                    <h4>Nosso contato</h4>
+                    <h6>+55 41 9 99532-5263</h6>
+                    <h6>hello@calçado.tenis.com.br</h6>
+                    <h6>Nome da Rua, Curitiba BR</h6>
+                </div>
+            </div>
+        </div>
+        <div class="last">
+            MotorCars 2022 </div>
+       </footer>
+    </body>
+    </html>    
   </body>
 </html>
